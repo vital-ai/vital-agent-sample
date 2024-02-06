@@ -1,2 +1,5 @@
 Flask==2.2.5
+vital-ai-vitalsigns
+vital-ai-domain
+vital-ai-aimp
 
